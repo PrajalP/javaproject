@@ -1,5 +1,5 @@
 package student;
-
+package test;
 import java.io.Serializable;
 import java.util.Scanner;
 public class Course implements Serializable {
